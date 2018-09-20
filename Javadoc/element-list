@@ -1,0 +1,6 @@
+edu.gw.csci.simulator
+edu.gw.csci.simulator.exceptions
+edu.gw.csci.simulator.gui
+edu.gw.csci.simulator.isa
+edu.gw.csci.simulator.memory
+edu.gw.csci.simulator.registers
